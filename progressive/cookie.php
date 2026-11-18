@@ -14,7 +14,7 @@ if ($stock == 0) {
 include 'includes/header.php'; 
 ?>
 
-<h2>Chocolate</h2>
+<h2>Strawberry</h2>
 <p><?php echo $message; ?></p>
 
 <?php 

@@ -9,7 +9,7 @@
     <h1>The CookiBites Store</h1>
     <nav>
         <a href="index.php">Home</a> |
-        <a href="candy.php">Candy</a> |
+        <a href="cookie.php">Cookie</a> |
         <a href="shop.php">Shop</a> | 
         <a href="about.php">About</a> |
         <a href="contact.php">Contact</a>

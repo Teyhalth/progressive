@@ -37,7 +37,7 @@ p {
 }
 
 table {
-  background-color: #850825;
+  background-color: #fcd07f;
   margin: 10px;
   padding: 5px;
   border: 1px solid #fbccbf;
@@ -51,7 +51,7 @@ th {
   letter-spacing: 0.2em;
   padding: 5px 10px;
   background-color: #fbccbf;
-  color: #850825;
+  color: #852508;
 }
   
 td {
@@ -59,7 +59,7 @@ td {
 }
 
 a {
-  color: #fbccbf;
+  color: #7c5102;
   letter-spacing: 1px;
   font-weight: 600;
   font-style: normal;
@@ -68,7 +68,7 @@ a {
 
 nav {
   padding: 0.5em;
-  background-color: #730720;
+  background-color: #f5d7a0;
 }
 
 nav a {
@@ -81,7 +81,7 @@ nav a:hover {
  
 .button {
   background-color: #fbccbf;
-  color: #850825;
+  color: #7c5102;
   border-color: #fbccbf;
   border-radius: 300px;
   -webkit-transition: .3s background-color linear;
@@ -100,13 +100,13 @@ nav a:hover {
 }
 
 .button:hover {
-  background-color: #fcba63;
+  background-color: #f5d7a0;
   border-radius: 300px;
   -webkit-transition: .1s background-color linear;
   -moz-transition: .1s background-color linear;
   -o-transition: .1s background-color linear;
   transition: .1s background-color linear;
-  color: #850825;
+  color: #fcd07f;
 }
   
 .offer {
@@ -114,9 +114,10 @@ nav a:hover {
 }
 
 footer {
-  background-color: #730720;
+  background-color: #f5d7a0;
   padding: 10px;
   width: 100%;
   position: fixed;
   bottom: 0;
+  color: #7c5102; 
 }
