@@ -100,4 +100,4 @@ $best_sellers = ['Chocolate', 'Mints', 'Strawberry'];
     <?php } ?>
 
 </body>
-</html> 
+</html>

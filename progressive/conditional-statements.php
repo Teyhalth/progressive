@@ -1,5 +1,5 @@
 <?php
-$name = 'Ivy';
+$name = 'Althea';
 $greeting = 'Hello';
 
 if ($name !== '') {
